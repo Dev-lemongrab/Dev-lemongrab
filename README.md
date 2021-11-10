@@ -6,8 +6,6 @@ So I should get a **high IT skill** and **deep insight**.✨<br/>
 I'm **persistent** and **obsessional** guy.😡<br/>
 And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
-### Another I
-
 
 ### 💪 Skills
 
