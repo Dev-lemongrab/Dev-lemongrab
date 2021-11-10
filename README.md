@@ -11,6 +11,5 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 ### 💪 Skills
 
-<img src="https://img.shields.io/badge/Java-CCCCFF?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-99FFCC?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-CCCCFF?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-99FFCC?style=flat-square&logo=Spring&logoColor=white"/>
 
