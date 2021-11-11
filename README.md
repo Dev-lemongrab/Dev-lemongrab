@@ -1,6 +1,6 @@
 # Dev-lemongrab
 
-### Introduce
+### 😀 Introduce
 👋 Hi there! I'm **junior IT developer**.<br/>
 I'm looking for a **Web Back-ENd job.👀**<br/>
 So I should get a **high IT skill** and **deep insight**.✨<br/>
@@ -17,7 +17,7 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 <img src="https://img.shields.io/badge/Eclipse-3300CC?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 
-### summary
+### 🖥 summary
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lemongrab&show_icons=true&theme=radical)
 
