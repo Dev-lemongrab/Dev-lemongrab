@@ -2,7 +2,7 @@
 
 ### 😀 Introduce
 👋 Hi there! I'm **junior IT developer**.<br/>
-I'm looking for a **Web Back-ENd job.👀**<br/>
+I'm looking for a **Web Back-END job.👀**<br/>
 So I should get a **high IT skill** and **deep insight**.✨<br/>
 
 I'm **persistent** and **obsessional** guy.😡<br/>
@@ -22,4 +22,6 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lemongrab&show_icons=true&theme=radical)
 
 ### education
+
+2021.04 - 2021.10 kg ITbank 웹 백앤드 양성과정  
 
