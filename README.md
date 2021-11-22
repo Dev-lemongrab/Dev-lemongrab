@@ -25,3 +25,4 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 2021.04 - 2021.10 kg ITbank 웹 백앤드 양성과정   
  
+ 
