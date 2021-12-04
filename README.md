@@ -1,7 +1,7 @@
 # Dev-lemongrab
 
 ### 😀 Introduce
-👋 Hi there! I'm **junior IT developer**.<br/>
+👋 Hi there! I'm **junior IT developer**.<br/> 
 I'm looking for a **Web Back-END job.👀**<br/>
 So I should get a **high IT skill** and **deep insight**.✨<br/>
 
