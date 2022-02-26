@@ -3,7 +3,7 @@
 ### 😀 Introduce
 👋 Hi there! I'm **junior IT developer**.<br/> 
 I'm looking for a **Web Back-END job.👀**<br/>
-So I should get a **high IT skill** and **deep insight**.✨<br/>
+So I should get a **high Web IT skill** and **deep insight**.✨<br/>
 
 I'm **persistent** and **obsessional** guy.😡<br/>
 And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
@@ -25,5 +25,3 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 2021.04 - 2021.10 kg ITbank 웹 백앤드 양성과정   
 2021.01 - 더존비즈온 채용확정형 :: AWS를 활용한 클라우드 기반 웹서비스 엔지니어 양성과정 진행 
-
- 
