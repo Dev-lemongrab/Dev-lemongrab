@@ -31,11 +31,11 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 <img src="https://img.shields.io/badge/Eclipse-3300CC?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0033CC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-660099?style=flat-square&logo=Intellijidea&logoColor=white"/>
 
-### Work
+### 💻 Work
 
 2022.08.01 - 더존 ICT 그룹 :: erp10
 
-### education
+### 📚 education
 
 2021.04 - 2021.10 kg ITbank 웹 백앤드 양성과정   
 2021.01 - 더존비즈온 채용확정형 :: AWS를 활용한 클라우드 기반 웹서비스 엔지니어 양성과정 진행 
