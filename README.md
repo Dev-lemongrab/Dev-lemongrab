@@ -9,19 +9,19 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 ### 💪 Skills
 
-**BackEnd**
+**👉 BackEnd**
 <br/>
 <img src="https://img.shields.io/badge/Java-FF0066?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-66CC99?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-33CC33?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringSecurity-009933?style=flat-square&logo=springsecurity&logoColor=white"/>
 <br/>
-**DataBase**
+**👉 DataBase**
 <br/>
 <img src="https://img.shields.io/badge/MariaDB-3399FF?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-6699FF?style=flat-square&logo=MySQL&logoColor=white"/>
 <br/>
-**FrontEnd**
+**👉 FrontEnd**
 <br/>
 <img src="https://img.shields.io/badge/React-6600CC?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-FF33FF?style=flat-square&logo=redux&logoColor=white"/>
