@@ -39,7 +39,3 @@ And most valuable thing i've chosen that is **UNDERSTANDING**.😁<br/>
 
 2021.04 - 2021.10 kg ITbank 웹 백앤드 양성과정   
 2021.01 - 더존비즈온 채용확정형 :: AWS를 활용한 클라우드 기반 웹서비스 엔지니어 양성과정 진행 
-
-### 🖥 summary
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lemongrab&show_icons=true&theme=radical)
